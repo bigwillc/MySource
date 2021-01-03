@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MySource.iml" filepath="$PROJECT_DIR$/.idea/MySource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/rpc/rpc.iml" filepath="$PROJECT_DIR$/framework/rpc/rpc.iml" group="rpc and modules" />
+      <module fileurl="file://$PROJECT_DIR$/framework/rpc/rpc-api/rpc-api.iml" filepath="$PROJECT_DIR$/framework/rpc/rpc-api/rpc-api.iml" group="rpc and modules" />
+      <module fileurl="file://$PROJECT_DIR$/framework/rpc/rpc-client/rpc-client.iml" filepath="$PROJECT_DIR$/framework/rpc/rpc-client/rpc-client.iml" group="rpc and modules" />
+      <module fileurl="file://$PROJECT_DIR$/framework/rpc/rpc-core/rpc-core.iml" filepath="$PROJECT_DIR$/framework/rpc/rpc-core/rpc-core.iml" group="rpc and modules" />
+      <module fileurl="file://$PROJECT_DIR$/framework/rpc/rpc-server/rpc-server.iml" filepath="$PROJECT_DIR$/framework/rpc/rpc-server/rpc-server.iml" group="rpc and modules" />
+    </modules>
+  </component>
+</project>
