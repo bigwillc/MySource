@@ -1,44 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T15:20:38.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Vv7bL8uNsd9zf_gsAGTr" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T16:25:09.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UOhNG9RSt36OqjqFtq1-" version="14.1.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pxDhUXXIACL6vUpGCmmt-8" value="用户管理" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="139.5" y="510" width="64" height="64" as="geometry" />
+          <mxGeometry x="152" y="480" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-9" value="后台基础数据配置" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="264.5" y="510" width="64" height="64" as="geometry" />
+          <mxGeometry x="241" y="480" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-10" value="样机管理" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="484.5" y="510" width="64" height="64" as="geometry" />
+          <mxGeometry x="419.5" y="610" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-11" value="试制管理" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="383.5" y="510" width="64" height="64" as="geometry" />
+          <mxGeometry x="680" y="546" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-24" value="邮件服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="139.5" y="630" width="64" height="64" as="geometry" />
+          <mxGeometry x="152" y="610" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-25" value="新品评审" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="264.5" y="630" width="64" height="64" as="geometry" />
+          <mxGeometry x="880" y="660" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-26" value="售后质量跟踪" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="383.5" y="630" width="64" height="64" as="geometry" />
+          <mxGeometry x="589.5" y="546" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-27" value="用户管理" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="589.5" y="510" width="64" height="64" as="geometry" />
+          <mxGeometry x="330" y="480" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-28" value="质量跟踪" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="489.5" y="630" width="64" height="64" as="geometry" />
+          <mxGeometry x="589.5" y="650" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-29" value="抽测计划" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="589.5" y="630" width="64" height="64" as="geometry" />
+          <mxGeometry x="689.5" y="650" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-30" value="实验室服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="699.5" y="630" width="64" height="64" as="geometry" />
+          <mxGeometry x="780" y="650" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-31" value="实验报告管理" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="699.5" y="510" width="64" height="64" as="geometry" />
+          <mxGeometry x="780" y="544" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxDhUXXIACL6vUpGCmmt-1" target="pxDhUXXIACL6vUpGCmmt-2">
           <mxGeometry relative="1" as="geometry" />
@@ -84,6 +84,15 @@
         </mxCell>
         <mxCell id="pxDhUXXIACL6vUpGCmmt-22" value="配置中心zookeeper" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Cache.svg;" vertex="1" parent="1">
           <mxGeometry x="699.5" y="310" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="pxDhUXXIACL6vUpGCmmt-58" value="问题管理" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="245" y="610" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="pxDhUXXIACL6vUpGCmmt-59" value="审核审批" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="pxDhUXXIACL6vUpGCmmt-64" value="流量统计" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="714" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
